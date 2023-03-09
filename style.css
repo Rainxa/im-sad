@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: ui-monospace;
+  text-align: center;
+  background-color: black;
+}
+span {
+  color: #2bee2b;
+  font-size: 35px;
+}
